@@ -1,14 +1,39 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+  "students": [
+    {
+      "id": "1001",
+      "fullName": "John Smith",
+      "dob": "1999-01-15",
+      "gender": "male",
+      "gpa": 8.7
+    },
+    {
+      "id": "1002",
+      "fullName": "Jane Doe",
+      "dob": "2000-05-10",
+      "gender": "female",
+      "gpa": 9.5
+    },
+    {
+      "id": "1003",
+      "fullName": "Bob Johnson",
+      "dob": "1998-11-02",
+      "gender": "male",
+      "gpa": 7.8
+    },
+    {
+      "id": "1004",
+      "fullName": "Emily Davis",
+      "dob": "2001-03-20",
+      "gender": "female",
+      "gpa": 9.0
+    },
+    {
+      "id": "1005",
+      "fullName": "Mike Lee",
+      "dob": "1997-08-07",
+      "gender": "male",
+      "gpa": 8.5
+    }
+  ]
+}
