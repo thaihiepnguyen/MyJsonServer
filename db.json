@@ -1,39 +1,49 @@
 {
-  "students": [
+  "pokemons": [
     {
-      "id": "1001",
-      "fullName": "John Smith",
-      "dob": "1999-01-15",
-      "gender": "male",
-      "gpa": 8.7
+      "name": "Pikachu",
+      "description": "Pikachu, the Electric Mouse Pokémon. It can generate electric charges from the electric pouches located on its cheeks.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
     },
     {
-      "id": "1002",
-      "fullName": "Jane Doe",
-      "dob": "2000-05-10",
-      "gender": "female",
-      "gpa": 9.5
+      "name": "Charizard",
+      "description": "Charizard, the Flame Pokémon. When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
     },
     {
-      "id": "1003",
-      "fullName": "Bob Johnson",
-      "dob": "1998-11-02",
-      "gender": "male",
-      "gpa": 7.8
+      "name": "Bulbasaur",
+      "description": "Bulbasaur, the Seed Pokémon. A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
     },
     {
-      "id": "1004",
-      "fullName": "Emily Davis",
-      "dob": "2001-03-20",
-      "gender": "female",
-      "gpa": 9.0
+      "name": "Squirtle",
+      "description": "Squirtle, the Tiny Turtle Pokémon. When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
     },
     {
-      "id": "1005",
-      "fullName": "Mike Lee",
-      "dob": "1997-08-07",
-      "gender": "male",
-      "gpa": 8.5
-    }
-  ]
-}
+      "name": "Mewtwo",
+      "description": "Mewtwo, the Genetic Pokémon. A Pokémon created by genetic manipulation. It is said to have the most savage heart among Pokémon.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+    },
+    {
+      "name": "Eevee",
+      "description": "Eevee, the Evolution Pokémon. Its genetic code is unstable, so it could evolve in a variety of ways depending on its environment.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+    },
+    {
+      "name": "Mew",
+      "description": "Mew, the New Species Pokémon. So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png"
+    },
+    {
+      "name": "Gyarados",
+      "description": "Gyarados, the Atrocious Pokémon. Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png"
+    },
+    {
+      "name": "Dragonite",
+      "description": "Dragonite, the Dragon Pokémon. An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+      "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
+      }
+    ]
+  }
